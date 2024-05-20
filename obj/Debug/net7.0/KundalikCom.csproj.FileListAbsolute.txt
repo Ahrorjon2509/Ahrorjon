@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\bin\Debug\net7.0\KundalikCom.exe
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\bin\Debug\net7.0\KundalikCom.deps.json
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\bin\Debug\net7.0\KundalikCom.runtimeconfig.json
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\bin\Debug\net7.0\KundalikCom.dll
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\bin\Debug\net7.0\KundalikCom.pdb
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.dll
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\refint\KundalikCom.dll
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.pdb
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\KundalikCom.genruntimeconfig.cache
+C:\Users\user\Desktop\Lesson\Lesson8Task\KundalikCom\obj\Debug\net7.0\ref\KundalikCom.dll
